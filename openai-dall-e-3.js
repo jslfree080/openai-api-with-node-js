@@ -50,4 +50,4 @@ async function main(inputText) {
     }
 }
 
-main(args[0]); // node openai-dall-e-3.js "A top-down 2D pixel art scene, inspired by the style of 'Octopath Traveler', focusing on a female character with blonde hair, portrayed as a loyal knight. She should be featured in the center of the image, wearing an intricate knight's armor with a predominantly blue and silver color scheme. The character is holding a sword and shield, showcasing a brave and confident posture. The background should include a medieval fantasy setting with detailed cobblestone paths and ancient buildings, embodying a vibrant, classic role-playing game atmosphere. Emphasize the detailed, colorful pixel art style that captures the essence of a rich fantasy world."
+main(args[0]); // node openai-dall-e-3.js "An expressive oil painting of a basketball player dunking, depicted as an explosion of a nebula."
